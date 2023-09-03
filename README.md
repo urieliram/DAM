@@ -9,6 +9,7 @@ The demand for the zones is also extracted from the same site. The operating lim
 The technical characteristics of the lines were taken from 
 [Andrés Ibarra's thesis](https://repositorio.tec.mx/bitstream/handle/11285/644822/IbarraDiaz_TesisMaestriaPDFA.pdf?sequence=6&isAllowed=y)
 
+<img src="images/net.gif" alt="Regional Network" width="500">
 
 The reservoir parameters are also artificially created from data from [PRODESEN2018](https://www.cenace.gob.mx/Docs/16_MARCOREGULATORIO/Prodecen//08%202018-2032%20Cap%C3%ADtulos%201%20al%206.pdf)
  and levels reported by [CENACE Hydraulic Evolution](https://www.cenace.gob.mx/Paginas/Info/EvolucionHidraulica.aspx)
